@@ -1,0 +1,8 @@
+com\comparison\hotel\HotelRestApplication.class
+com\comparison\hotel\repository\ChambreRepository.class
+com\comparison\hotel\repository\ReservationRepository.class
+com\comparison\hotel\model\Chambre.class
+com\comparison\hotel\controller\ReservationController.class
+com\comparison\hotel\model\Client.class
+com\comparison\hotel\repository\ClientRepository.class
+com\comparison\hotel\model\Reservation.class
