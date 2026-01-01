@@ -1,0 +1,12 @@
+
+target/
+*.jar
+*.class
+node_modules/
+.idea/
+*.log
+*.iml
+.vscode/
+dist/
+build/
+.DS_Store

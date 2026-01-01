@@ -1,8 +1,0 @@
-com\comparison\hotel\soap\model\Reservation.class
-com\comparison\hotel\soap\repository\ReservationRepository.class
-com\comparison\hotel\soap\HotelSoapApplication.class
-com\comparison\hotel\soap\model\Chambre.class
-com\comparison\hotel\soap\repository\ChambreRepository.class
-com\comparison\hotel\soap\WebServiceConfig.class
-com\comparison\hotel\soap\model\Client.class
-com\comparison\hotel\soap\repository\ClientRepository.class
